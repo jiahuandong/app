@@ -9,6 +9,7 @@ public class BaseController {
 	protected void start() {
 		Map<String, Object> resultMap = new HashMap<String, Object>();
 		datas.set(resultMap);
+system.out.println("1111");
 	}
 
 	protected Object end() {
